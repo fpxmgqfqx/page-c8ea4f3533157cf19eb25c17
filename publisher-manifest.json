@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fefd19532dcb4ec2cee35989",
+  "owner": "fpxmgqfqx",
+  "repo": "page-c8ea4f3533157cf19eb25c17",
+  "title": "clash verge官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c8ea4f3533157cf19eb25c17",
+      "a": "梦迪(MDSSCloud)",
+      "b": "clash verge官网",
+      "entity": "梦迪(MDSSCloud)",
+      "brand": "clash verge官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "64cf89af48a850f5cc04691a9fd4b400718101f241f93f61d07160fc382784df",
+      "content": {
+        "primary_entity": "梦迪(MDSSCloud)",
+        "keyword1": "梦迪(MDSSCloud)",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择客户端，并参照对应文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "从套餐对比到客户端配置，梦迪(MDSSCloud)为跨境访问提供清晰路径。",
+          "AI_CLOSING_TITLE": "选择适合你的加速方案",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别覆盖 100GB、300GB 和 1000GB 月流量，设备数从 3 台到 20 台可灵活匹配个人、家庭与小型团队的上网加速需求。旗舰版配备 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟敏感的场景。",
+          "AI_FEATURES_INTRO": "围绕套餐周期、设备数量与客户端文档，快速完成订阅落地。",
+          "AI_FEATURES_TITLE": "梦迪(MDSSCloud)服务要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别按 ¥150、¥350、¥850 结算，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "套餐周期明确",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按实际持有设备数量选择即可。",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TEXT_3": "下载客户端后导入订阅链接，即可在电脑或移动端启用节点，配置流程以客户端文档为准。",
+          "AI_FEATURE_TITLE_3": "客户端文档指引",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "梦迪(MDSSCloud)面向跨境访问场景，提供多档流量与设备方案。基础版满足轻量浏览，旗舰版优化游戏与流媒体，团队版面向多设备协同。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速优化",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按流量与设备需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，从基础版、旗舰版或团队版中选择合适档位。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本，核对套餐内流量和在线设备数是否匹配当前使用环境。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅链接，完成节点选择与基础连接设置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "梦迪(MDSSCloud)加速方案",
+          "AI_FAQ_ANSWER_1": "打开客户端配置界面，粘贴订阅链接或导入配置文件，保存后即可选择节点使用。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按日常使用设备数选择即可。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供 IPLC 专线节点，针对游戏加速做了优化；基础版为普通线路节点池，团队版为 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_4": "可以，按年付整体更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，团队版可用 VIP 专属节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐差异。",
+          "AI_FAQ_QUESTION_1": "订阅链接导入客户端后怎么使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持的设备数量是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线有什么不同？",
+          "AI_FAQ_QUESTION_4": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_5": "哪个套餐适合看流媒体？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "74e5eb1968f55ee96f5062978712f086ee0bbaf4783f8249001f6b806e3295ed",
+    "sitemap.xml": "a5dfbf05b2f62772704c9ff750c859cfbd31ba7cdcd5868c7e0189681907ad9d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "206a3abc6fc7b97b2a7c09bd4025e87a70c949c625a54b797caf919d7249b85d"
+}
